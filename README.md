@@ -2,11 +2,20 @@
 
 手机优先的泥塑展示与模拟商城。原生 JavaScript ES Modules + Three.js + PWA，无后端。人物、价格、订单均为演示数据，不涉及真实支付。
 
-正式网站：**https://pinex3x.github.io/nitu-clay-app/**（公开访问，无需登录）
+正式网站：https://pinex3x.github.io/nitu-clay-app/ 
 
 源码仓库：https://github.com/pinex3x/nitu-clay-app
 
 推送 `main` 后由 GitHub Actions 检查并自动部署 `dist/`，PR 仅检查。完整流程见 [使用与部署说明](使用与部署说明.md)。
+
+## 文档与当前状态
+
+- [开发指南](docs/DEVELOPMENT.md)：开发环境、模块边界、数据约定、验证与提交方式。
+- [开发交接](docs/HANDOFF.md)：已知问题和既有验收记录。
+- [使用与部署说明](使用与部署说明.md)：Web/PWA 使用、GitHub Pages 发布与回滚。
+- [微信小程序可行性、成本与准备清单](docs/MINIPROGRAM_FEASIBILITY.md)：方案、预算、账号准备及后续验证。
+
+截至 2026-10-22，小程序仅完成可行性分析，用户尚未注册账号，未开始改写、测试或发布。现有线上产品仍为 Web/PWA。
 
 ## 开始开发
 
