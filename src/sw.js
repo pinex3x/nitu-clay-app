@@ -16,6 +16,8 @@ const SHELL = [
   "./style.css",
   "./vendor/three.module.js",
   "./icon.svg",
+  "./icon-192.png",
+  "./icon-512.png",
   "./manifest.webmanifest",
   "./assets/renders/0-5-0.webp",
 ];
