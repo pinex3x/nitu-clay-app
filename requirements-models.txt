@@ -1,0 +1,8 @@
+# Optional asset-generation dependencies; not needed to run the shipped Web App.
+# Names only, not a locked or cross-platform validated environment.
+numpy
+scipy
+scikit-image
+moderngl
+glcontext
+Pillow

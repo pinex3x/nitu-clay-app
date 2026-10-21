@@ -1,0 +1,24 @@
+{
+  "title": "泥途 · 掌心里的泥塑",
+  "source_commit": "bab160d6c1983989dff2c181cc4a2b585c90df9c",
+  "site_version": 2,
+  "exported_date": "2026-10-21",
+  "live_url": "https://pinex3x.github.io/nitu-clay-app/",
+  "source_files": "Original export archived in archive/original-source-v2.zip; working tree reorganized locally",
+  "added_handoff_files": [
+    "使用与部署说明.md",
+    "requirements-models.txt",
+    "SOURCE_VERSION.json",
+    "SHA256SUMS.txt"
+  ],
+  "local_revision": "github-pages-v1",
+  "maintenance_entrypoints": [
+    "src",
+    "public",
+    "scripts",
+    "docs/HANDOFF.md"
+  ],
+  "previous_live_url": "https://nitu-clay-workshop.clear-haven-2406.chatgpt.site",
+  "repository": "https://github.com/pinex3x/nitu-clay-app",
+  "deployment": "GitHub Actions -> GitHub Pages"
+}

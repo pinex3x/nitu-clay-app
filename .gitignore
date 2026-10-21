@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+.DS_Store
+public/assets/models/*.npz
+
+# 原托管关联与原始备份仅保留本地
+.openai/
+archive/
